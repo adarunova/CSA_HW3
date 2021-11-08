@@ -1,0 +1,4 @@
+The container stores 3 shapes:
+0. CIRCLE. Center coordinates:  (1, 1), radius: 1 Perimeter = 6.283185307179586. Color: RED
+1. RECTANGLE. Coordinates of angles:  (1, 4), (3, 2). Perimeter = 8.0. Color: ORANGE
+2. TRIANGLE. Coordinates of vertices: (1, 2), (1, 3), (4, 5). Perimeter = 8.848191962583275. Color: YELLOW

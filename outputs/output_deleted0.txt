@@ -1,0 +1,3 @@
+The container after deleting elements contains 2 shapes:
+0. RECTANGLE. Coordinates of angles:  (1, 4), (3, 2). Perimeter = 8.0. Color: ORANGE
+1. TRIANGLE. Coordinates of vertices: (1, 2), (1, 3), (4, 5). Perimeter = 8.848191962583275. Color: YELLOW

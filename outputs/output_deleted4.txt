@@ -1,0 +1,4 @@
+The container after deleting elements contains 3 shapes:
+0. RECTANGLE. Coordinates of angles:  (9, -12), (20, -14). Perimeter = 26.0. Color: GREEN
+1. CIRCLE. Center coordinates:  (-4, -5), radius: 16 Perimeter = 100.53096491487338. Color: ORANGE
+2. CIRCLE. Center coordinates:  (-15, 8), radius: 4 Perimeter = 25.132741228718345. Color: YELLOW

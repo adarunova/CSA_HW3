@@ -1,0 +1,16 @@
+The container after deleting elements contains 15 shapes:
+0. CIRCLE. Center coordinates:  (-34, -92), radius: 86 Perimeter = 540.3539364174444. Color: ORANGE
+1. TRIANGLE. Coordinates of vertices: (-96, 87), (80, 0), (16, 0). Perimeter = 402.1491146753373. Color: BLUE
+2. TRIANGLE. Coordinates of vertices: (-86, -93), (-59, 0), (82, 0). Perimeter = 429.863510419077. Color: CYAN
+3. CIRCLE. Center coordinates:  (66, 67), radius: 69 Perimeter = 433.53978619539146. Color: BLUE
+4. RECTANGLE. Coordinates of angles:  (73, -9), (157, 57). Perimeter = 300.0. Color: ORANGE
+5. CIRCLE. Center coordinates:  (-37, -87), radius: 84 Perimeter = 527.7875658030853. Color: GREEN
+6. TRIANGLE. Coordinates of vertices: (90, -24), (-6, 0), (-86, 0). Perimeter = 356.58336150421997. Color: RED
+7. CIRCLE. Center coordinates:  (23, -4), radius: 53 Perimeter = 333.0088212805181. Color: ORANGE
+8. CIRCLE. Center coordinates:  (5, -100), radius: 69 Perimeter = 433.53978619539146. Color: BLUE
+9. CIRCLE. Center coordinates:  (-2, 69), radius: 54 Perimeter = 339.29200658769764. Color: BLUE
+10. RECTANGLE. Coordinates of angles:  (72, 95), (134, 172). Perimeter = 278.0. Color: BLUE
+11. RECTANGLE. Coordinates of angles:  (-14, 51), (41, 144). Perimeter = 296.0. Color: PURPLE
+12. RECTANGLE. Coordinates of angles:  (38, -96), (106, -5). Perimeter = 318.0. Color: RED
+13. TRIANGLE. Coordinates of vertices: (-9, 95), (-87, 0), (55, 0). Perimeter = 379.4656059124056. Color: RED
+14. RECTANGLE. Coordinates of angles:  (8, 65), (70, 163). Perimeter = 320.0. Color: GREEN

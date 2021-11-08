@@ -1,0 +1,2 @@
+The container after deleting elements contains 1 shapes:
+0. CIRCLE. Center coordinates:  (74, 33), radius: 90 Perimeter = 565.4866776461628. Color: ORANGE
